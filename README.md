@@ -1,1 +1,5 @@
-My name is Awesome Programmer. I'm new to GitHub, but eager to learn more!
+# Hello World!
+
+My name is John Doe
+
+I am learning Git, GitHub, and GitHub pages, along with some Git Commands
